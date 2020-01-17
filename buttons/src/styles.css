@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  background-color: red;
+  margin: 0 0 10px 0;
+  padding: 20px;
+}
+
+button {
+  margin: 10px;
+  background-color: cyan;
+  border: none;
+  font-size: 120%;
+}
