@@ -1,6 +1,6 @@
-[submodule "pokemon-wiki"]
-	path = pokemon-wiki
-	url = https://github.com/dmoini/pokemon-wiki/
-[submodule "what-should-i-watch"]
-	path = what-should-i-watch
+[submodule "projects/what-should-i-watch"]
+	path = projects/what-should-i-watch
 	url = https://github.com/dmoini/what-should-i-watch/
+[submodule "projects/pokemon-wiki"]
+	path = projects/pokemon-wiki
+	url = https://github.com/dmoini/pokemon-wiki/
